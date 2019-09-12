@@ -109,4 +109,4 @@ hello文档里面是hello.go文件
 stringutil文档里面是reverse.go和reverse_test.go文件
 
 运行说明：
-
+不能直接run，只有按照上述步骤配置完centos之后才能运行。不能运行的原因不详。
