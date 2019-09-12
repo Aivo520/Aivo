@@ -105,3 +105,8 @@ Hello, Go examples!
 
 
 实验文档：
+hello文档里面是hello.go文件
+stringutil文档里面是reverse.go和reverse_test.go文件
+
+运行说明：
+
